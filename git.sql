@@ -34,4 +34,5 @@ git reset --hard 3628164
 git reflog
 
 
-gik diff HEAD -- git.sql
+git diff HEAD -- git.sql
+
