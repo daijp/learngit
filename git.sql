@@ -32,3 +32,6 @@ git reset --hard 3628164
 
 查看命令历史
 git reflog
+
+
+gik diff HEAD -- git.sql
