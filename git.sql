@@ -33,6 +33,8 @@ git reset --hard 3628164
 查看命令历史
 git reflog
 
-
+比较文件不同
 git diff HEAD -- git.sql
 
+撤销修改
+git checkout -- git.sql
