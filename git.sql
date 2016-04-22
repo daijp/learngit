@@ -22,3 +22,13 @@ git log
 
 在一行查看日志
 git log --pretty=oneline
+
+
+还原
+git reset --hard HEAD
+
+还原
+git reset --hard 3628164
+
+查看命令历史
+git reflog
