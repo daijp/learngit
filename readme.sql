@@ -13,3 +13,5 @@ git status
 
 git diff
 
+
+git log
