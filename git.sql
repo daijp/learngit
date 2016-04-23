@@ -38,3 +38,15 @@ git diff HEAD -- git.sql
 
 撤销修改
 git checkout -- git.sql
+
+删除
+git rm test.txt
+
+创建SSH Key
+ssh-keygen -t rsa -C "youremail@example.com"
+
+登陆GitHub，打开"Account settings"，"SSH Keys"页面：
+
+然后，点"Add SSH Key"，填上任意Title，在Key文本框里粘贴 
+
+id_rsa.pub
